@@ -2,3 +2,5 @@
 Game of LIfe built with Pygame
 
 ![](images/random.gif)
+
+![](images/prepared.gif)
