@@ -1,6 +1,10 @@
 # Game-of-Life
-Game of LIfe built with Pygame
+Game of Life built with Pygame
+
+## Random Dots
 
 ![](images/random.gif)
+
+## Prepared Net
 
 ![](images/prepared.gif)
