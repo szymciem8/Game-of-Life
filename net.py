@@ -29,7 +29,7 @@ class Net:
                                 pygame.Color(150,150,150),
                                 [i*self.block_size, 0],
                                 [i*self.block_size, self.height])
-
+ 
         for i in range(self.n_blocks_in_y):
             pygame.draw.line(surface,
                                 pygame.Color(150,150,150),
